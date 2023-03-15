@@ -1,0 +1,20 @@
+{
+  "item.reborn.black_opal": "Black Opal",
+  "item.reborn.raw_black_opal": "Raw Black Opal",
+
+  "block.reborn.black_opal_block": "Block of Black Opal",
+  "block.reborn.black_opal_ore": "Black Opal Ore",
+  "block.reborn.deepslate_black_opal_ore": "Deepslate Black Opal Ore",
+  "block.reborn.endstone_black_opal_ore": "Endstone Black Opal Ore",
+  "block.reborn.netherrack_black_opal_ore": "Netherrack Black Opal Ore",
+
+  "block.reborn.ebony_log": "Ebony Log",
+  "block.reborn.ebony_planks": "Ebony Planks",
+  "block.reborn.ebony_wood": "Ebony Wood",
+  "block.reborn.stripped_ebony_log": "Stripped Ebony Log",
+  "block.reborn.stripped_ebony_wood": "Stripped Ebony Wood",
+  "block.reborn.ebony_leaves": "Ebony Leaves",
+  "block.reborn.ebony_sapling": "Ebony Sapling",
+
+  "creativemodetab.tutorial_tab": "Tutorial Tab"
+}

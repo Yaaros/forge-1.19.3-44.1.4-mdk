@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "reborn:ebony_log",
+    "reborn:ebony_wood",
+    "reborn:stripped_ebony_log",
+    "reborn:stripped_ebony_wood"
+  ]
+}

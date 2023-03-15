@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "reborn:black_opal_ore",
+    "reborn:black_opal_block",
+    "reborn:deepslate_black_opal_ore",
+    "reborn:netherrack_black_opal_ore",
+    "reborn:endstone_black_opal_ore"
+  ]
+}
